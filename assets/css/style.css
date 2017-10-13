@@ -1,0 +1,63 @@
+ .jumbotron {
+     background: black;
+     padding: 25px;
+ }
+
+ h1 {
+     color: white;
+     font-size: 48px;
+ }
+
+ h2 {
+
+     font-family: 'Open Sans', sans-serif;
+     font-size: 18px;
+     font-weight: 500;
+ }
+
+ p {
+     color: white;
+ }
+
+ .card-header, th {
+     background-color: #f2f2f2;
+ }
+
+ th {
+     text-align: center;
+ }
+
+
+ table {
+     border: 1px solid #D6D6D6;
+     text-align: center;
+ }
+
+ .header {
+     background-color: #4CAF50;
+     color: white;
+     font-family: 'Open Sans', sans-serif;
+     font-size: 18px;
+     font-weight: lighter;
+ }
+
+ img {
+     border-radius: 8px;
+     margin-bottom: 0px;
+     margin: 5px;
+     background-color: white;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+
+ .icons {
+     width: 50px;
+     height: auto;
+ }
+
+ form {
+     margin-top: 10px;
+     padding: 20px;
+     font-family: 'Open Sans', sans-serif;
+     font-size: 18px;
+     font-weight: lighter;
+ }
